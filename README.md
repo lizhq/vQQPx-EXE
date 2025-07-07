@@ -34,12 +34,14 @@
 
 * 视频下载失败？清晰度不够？请查看 [FAQ](https://nstudy.org/p2025/Python/17c371.html) 获取高清设置方法
 
+
 ---
 ## 🚀 快速开始
 
-1. 下载本项目并解压
-2. 进入解压目录，打开命令行窗口（CMD 或 PowerShell）
-3. 运行以下命令：
+1. [chromedriver配置](https://nstudy.org/p2025/Python/360b91.html)
+2. 下载本项目并解压
+3. 进入解压目录，打开命令行窗口（CMD 或 PowerShell）
+4. 运行以下命令：
 
 ```bash
 # 查看版本
